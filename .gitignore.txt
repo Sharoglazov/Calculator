@@ -1,1 +1,1 @@
-trash.txt
+!/.trash.txt
